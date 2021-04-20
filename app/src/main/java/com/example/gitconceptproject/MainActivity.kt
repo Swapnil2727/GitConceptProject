@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         println("Test Revert Commit")
 
-        println("First Branch Commit")
+        println("Second Branch Commit")
 
 
     }
