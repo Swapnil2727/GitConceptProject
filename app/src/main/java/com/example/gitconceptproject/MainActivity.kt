@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
 
         println("First branch change commit")
 
+        println("This line will be merged")
 
     }
 }
