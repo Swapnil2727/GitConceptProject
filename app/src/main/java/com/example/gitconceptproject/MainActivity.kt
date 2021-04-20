@@ -12,7 +12,5 @@ class MainActivity : AppCompatActivity() {
 
         println("Second Commit")
 
-        println("Test Revert Commit")
-
     }
 }
