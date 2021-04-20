@@ -12,5 +12,10 @@ class MainActivity : AppCompatActivity() {
 
         println("Second Commit")
 
+        println("Test Revert Commit")
+
+        println("Second Branch Commit")
+
+
     }
 }
