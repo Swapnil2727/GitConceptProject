@@ -16,6 +16,8 @@ class MainActivity : AppCompatActivity() {
 
         println("Second Branch Commit")
 
+        println("First branch change commit")
+
 
     }
 }
