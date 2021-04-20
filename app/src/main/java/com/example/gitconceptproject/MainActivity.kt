@@ -22,5 +22,7 @@ class MainActivity : AppCompatActivity() {
 
         println("This line will merged First branch")
 
+        println("Merging in Github")
+
     }
 }
